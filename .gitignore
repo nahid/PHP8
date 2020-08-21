@@ -1,2 +1,3 @@
 docker-compose.yaml
-src/.*
+!src/index.php
+src
